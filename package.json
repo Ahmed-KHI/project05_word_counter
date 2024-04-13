@@ -1,0 +1,20 @@
+{
+  "name": "ahmed-115-project05_word_counter",
+  "version": "1.0.0",
+  "description": "This TypeScript code implements a versatile word counter that caters to various analysis needs for English sentences. It leverages the inquirer package to create a user-friendly interface for sentence input.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["word-counter","user-input","sentence","cheracter-count","non-whitespace-word-count","inquirer.js","typescript","string-manipulation","command-line"],
+  "author": "Mirza Muhammad Ahmed (00263838)",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
